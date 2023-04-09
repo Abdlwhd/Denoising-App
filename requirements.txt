@@ -1,5 +1,0 @@
-numpy
-opencv_python==4.7.0.72
-streamlit
-tensorflow
-tensorflow_intel
